@@ -12,3 +12,10 @@ Kinglewood Airport
 4. Turn right toward Sundance Rd
 5. Turn right onto Sundance Rd
 6. Continue onto N 2nd St
+# more places to experience
+- Maitland Christian Church
+- Nicholas Park
+- Beacon RV Park
+- Doniphan House
+- Lewis and Clark Camp Site
+- King Lake Conservation Area
