@@ -22,3 +22,13 @@ Kinglewood Airport
 
 
 [AboutMefile](AboutMe.md)
+
+- - -
+# Table of cities to visit
+Table with cities to visit
+| city Name | location | Duration |
+| --- | --- | --- |
+| Karnataka | Gokarna | 2 |
+| Maharashtra | Tarkarli | 3 |
+| Tamil Nadu | Tharangambadi | 4 |
+| Andaman and Nicobar Islands| Radhanagar | 3 |
