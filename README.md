@@ -32,3 +32,12 @@ Table with cities to visit
 | Maharashtra | Tarkarli | 3 |
 | Tamil Nadu | Tharangambadi | 4 |
 | Andaman and Nicobar Islands| Radhanagar | 3 |
+
+- - -
+# Quotes
+
+> “What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”
+*― J.D. Salinger*
+
+> “A writer is someone for whom writing is more difficult than it is for other people.”
+*― Thomas Mann*
