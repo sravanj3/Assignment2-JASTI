@@ -41,3 +41,11 @@ Table with cities to visit
 
 > “A writer is someone for whom writing is more difficult than it is for other people.”
 *― Thomas Mann*
+
+- - -
+[Transform html tags from db](https://stackoverflow.com/questions/11358600/transform-html-tags-from-db#:~:text=To%20store%20and%20retrieve%20html%20you%20should%20use,be%20displayed%20-%20when%20displaying%20the%20retrieved%20content.)
+
+```
+I <del>hate</del> <ins>LOVE</ins> my new iPod nano.
+```
+[Proper Tags for Displaying Content Edits](https://css-tricks.com/snippets/html/proper-tags-for-displaying-content-edits/)
